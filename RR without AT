@@ -8,7 +8,6 @@ int main()
     int temp1, temp2;
     int BT[100], AT[100], TAT[100], BTR[100], WT[100];
     float awt = 0, atat = 0;
-    temp2 = 0;
     cout<<"Enter DOM:";
     cin >> n;
     cout << "Enter burst timee:";
